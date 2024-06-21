@@ -1,0 +1,1 @@
+The Concrete Compressive Strength Dataset is used, which contains various ingredients used in the production of concrete and their respective compressive strength. Several machine learning model are used to predicts the compressive strength of concrete based on the features available in this dataset
